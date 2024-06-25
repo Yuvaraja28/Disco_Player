@@ -175,6 +175,7 @@
       width: 48%;
       display: flex;
       flex-direction: row;
+      height: fit-content;
       background-color: rgb(46, 42, 42);
       border-radius: 10px;
       padding: 8px;
@@ -239,8 +240,10 @@
   <body>
     <div class="music_header">
       <span class="project_heading">Disco Player</span>
+
       <div class="project_members_div">
-        <span class="project_member">Yuvaraja.M</span>
+        <span class="project_member">Yuvaraja Murali</span>
+        <a class="project_member" target="_blank" href="https://github.com/Yuvaraja28/Disco_Player_Website">Github Link</a>
       </div>
     </div>
     <div class="music_div">
@@ -289,6 +292,7 @@
       var current_song = 0
       const ip = `${document.location.origin}/music`
       const music_list = [
+        'Warriyo - Mortals.mp3'
         // List of all Music Files.
       ]
       music_list.map((music, index) => {
