@@ -290,7 +290,8 @@
       const current_volume = document.getElementById('current_volume')
       const timer = ms => new Promise(res => setTimeout(res, ms))
       var current_song = 0
-      const ip = `${document.location.origin}/music`
+      const ip = `${document.location.href}music`
+      console.log(ip)
       const music_list = [
         'Warriyo - Mortals.mp3'
         // List of all Music Files.
