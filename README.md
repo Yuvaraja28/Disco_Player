@@ -12,4 +12,4 @@ Start the Site with a `Live Sever` Extension to get all the music listening in t
 
 |Screenshot|
 |---|
-|![disco_player](https://github.com/Yuvaraja28/Disco_Player_Website/assets/64340067/476990fd-0f81-4338-bbbe-5e1a15c25773)|
+|![disco-player](https://github.com/Yuvaraja28/Disco_Player_Website/assets/64340067/e7ab179e-229b-4928-b1e3-ecf36803197c)|
